@@ -1,1 +1,2 @@
-Build an LLM-powered command-line program capable of reading, updating, and running Python code using the Gemini API. Learn how LLMs and agentic coding tools work.
+Project follows Boot.dev's Build an AI Agent course:
+"Build an LLM-powered command-line program capable of reading, updating, and running Python code using the Gemini API. Learn how LLMs and agentic coding tools work."
